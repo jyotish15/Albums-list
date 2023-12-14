@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Albums-list/static/css/main.b7215c85.css",
+    "main.js": "/Albums-list/static/js/main.a0b38ce8.js",
+    "index.html": "/Albums-list/index.html",
+    "main.b7215c85.css.map": "/Albums-list/static/css/main.b7215c85.css.map",
+    "main.a0b38ce8.js.map": "/Albums-list/static/js/main.a0b38ce8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7215c85.css",
+    "static/js/main.a0b38ce8.js"
+  ]
+}
