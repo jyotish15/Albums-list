@@ -1,6 +1,5 @@
 {
   "name": "albums-list",
-  "homepage": "https://jyotish15.github.io/Albums-list/albums-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
